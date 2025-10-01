@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **2D Platform AI game**
 
-- 🌱 I’m currently learning **CSS, Java, C, C++, Python**
+- 🌱 I’m currently learning **Java, C, C++, Python, Odoo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jacka04?tab=projects](https://github.com/jacka04?tab=projects)
 
