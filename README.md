@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacka04" alt="jacka04" /></a> </p>
 
-- 🔭 I’m currently working on **2D Platform AI game**
+- 🔭 I’m currently working on **2D Platform game**
 
 - 🌱 I’m currently learning **Java, C, C++, Python, Odoo**
 
