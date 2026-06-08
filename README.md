@@ -6,18 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jancamposmoragas@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=jacka04&color=0e75b6&style=flat)](https://github.com/jacka04)
 
-Building **Death-Kour** (2D Platformer in C#) · Exploring cybersecurity & cloud automation
-
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [🎮 Death-Kour](https://github.com/jacka04/Death-Kour) | C# · Unity | 2D platformer built from scratch |
-| [☁️ PiCLoudFTP](https://github.com/jacka04/PiCLoudFTP) | PHP · RPi | Multi-cloud file manager with automated backups |
 
 ---
 
@@ -36,6 +25,10 @@ Building **Death-Kour** (2D Platformer in C#) · Exploring cybersecurity & cloud
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=jacka04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacka04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jacka04&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacka04/jacka04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacka04/jacka04/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jacka04/jacka04/output/github-snake.svg" />
+</picture>
 
 </div>
